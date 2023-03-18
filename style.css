@@ -1,0 +1,47 @@
+body {
+    padding: 30px;
+    background: #0d1e3a;
+
+    color: white;
+    text-align: center;
+}
+h1 {
+    font-size: large;
+}
+p {
+    font-size: small;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.profile-img {
+    width: 50%;
+    border-radius: 50%;
+}
+.btn {
+    display: block;
+    text-decoration: none;
+    color:black;
+    padding: 20px 5px;
+    background: white;
+    margin: 25px;
+    box-shadow: 5px 10px #d1d5da;
+    cursor: pointer;
+    
+}
+.btn:hover {
+    background: #8437f9;
+    color: white;
+    transition: 1s;
+}
+.social-icons {
+    margin: 5px;
+    cursor: pointer;
+    
+}
+.smile-icon {
+    size: 0ch;
+}
+
+
